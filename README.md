@@ -2,6 +2,8 @@
 
 
 USGS Earthquake Data Visualization
+
+
 -Welcome to the USGS Earthquake Data Visualization project. 
   In this project, I'll show you how to create a map that displays earthquake data provided by the United States Geological Survey (USGS) using the Leaflet library. 
   The map will help you understand the location, magnitude, and depth of earthquakes.
